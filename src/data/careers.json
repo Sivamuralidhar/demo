@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Full Stack Developer",
+      "type": "Full-time",
+      "location": "Remote / New York",
+      "department": "Engineering",
+      "description": "We're looking for an experienced Full Stack Developer to join our growing team.",
+      "requirements": [
+        "5+ years of experience with modern web technologies",
+        "Strong proficiency in React, Node.js, and TypeScript",
+        "Experience with cloud platforms (AWS/Azure/GCP)",
+        "Excellent problem-solving and communication skills"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Digital Marketing Specialist",
+      "type": "Full-time",
+      "location": "Remote / London",
+      "department": "Marketing",
+      "description": "Join our marketing team to drive growth and engagement across digital channels.",
+      "requirements": [
+        "3+ years of digital marketing experience",
+        "Proven track record in SEO and content marketing",
+        "Experience with analytics tools and data-driven decision making",
+        "Strong creative and analytical skills"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "SEO Analyst",
+      "type": "Full-time",
+      "location": "Remote / Singapore",
+      "department": "Marketing",
+      "description": "Help our clients achieve better search rankings and visibility.",
+      "requirements": [
+        "3+ years of SEO experience",
+        "Strong understanding of technical SEO",
+        "Experience with SEO tools and analytics",
+        "Content optimization expertise"
+      ]
+    }
+  ]
+}
